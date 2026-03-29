@@ -1,0 +1,54 @@
+{
+  "Leavey Library": {
+    "longitude": -118.28299,
+    "latitude": 34.02154
+  },
+  "Science & Engineering Library": {
+    "longitude": -118.28889,
+    "latitude": 34.01986
+  },
+  "Hoose Library of Philosophy": {
+    "longitude": -118.28664,
+    "latitude": 34.01879
+  },
+  "Chick-fil-A": {
+    "longitude": -118.28265,
+    "latitude": 34.01667
+  },
+  "Jimmy johns": {
+    "longitude": -118.28447,
+    "latitude": 34.02478
+  },
+  "Subway": {
+    "longitude": -118.27943,
+    "latitude": 34.02312
+  },
+  "Exposition Park Fountain": {
+    "longitude": -118.28617,
+    "latitude": 34.01738
+  },
+  "Patsy and Forrest Shumway Fountain": {
+    "longitude": -118.28525,
+    "latitude": 34.02014
+  },
+  "Generations Fountain": {
+    "longitude": -118.28332,
+    "latitude": 34.0222
+  },
+  "USC school of communication": {
+    "longitude": -118.28663,
+    "latitude": 34.0222
+  },
+  "USC School of Cinematic Arts": {
+    "longitude": -118.28618,
+    "latitude": 34.023
+  },
+  "USC Gould School of Law": {
+    "longitude": -118.28416,
+    "latitude": 34.01891
+  },
+  "Next On Sixth Apt": {
+    "longitude": -118.28063,
+    "latitude": 34.06705
+  }
+}
