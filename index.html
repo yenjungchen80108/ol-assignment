@@ -100,6 +100,12 @@
 
       initMap();
       loadDataAndPlot();
+
+      map.on("click", function (evt) {
+        map.forEachFeatureAtPixel(evt.pixel, function (feature) {
+          alert(feature.get("name"));
+        });
+      });
     </script>
   </body>
 </html>
